@@ -16,7 +16,7 @@ Welcome to the **Refokus Website Clone**, a highly responsive and modern recreat
 
 ## 🎥 Live Demo
 
-Experience it live: [🔗 Live Demo](https://refokus-clone-five-jade.vercel.app/)
+Experience it live: [🔗 Live Demo](https://refokus-main-three.vercel.app/)
 
 ![🌟 Website Preview](https://i.postimg.cc/Qt1FNhLp/Screenshot-2025-01-21-143300.png)
 
